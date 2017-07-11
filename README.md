@@ -1,5 +1,3 @@
-# teonnik.github.io
-
-[WIP]
+# TODO
 
 Link https://teonnik.github.io/
