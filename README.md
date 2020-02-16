@@ -1,3 +1,10 @@
 # TODO
 
-Link https://teonnik.github.io/
+- [ ] AY 
+- [ ] C++
+- [ ] Travel
+- [ ] HPC
+
+# Link
+
+ https://teonnik.github.io/
